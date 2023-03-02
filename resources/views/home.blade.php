@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    @livewire('image-uploader')
                 </div>
             </div>
         </div>
